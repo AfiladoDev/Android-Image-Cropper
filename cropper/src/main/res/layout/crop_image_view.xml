@@ -18,8 +18,9 @@
 
     <ProgressBar
         android:id="@+id/CropProgressBar"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center"/>
+        android:layout_width="36dp"
+        android:layout_height="36dp"
+        android:layout_gravity="center"
+        android:theme="@style/progressBarStyle"/>
 
 </merge>
