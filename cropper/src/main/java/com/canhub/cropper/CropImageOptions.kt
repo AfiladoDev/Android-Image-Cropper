@@ -14,7 +14,7 @@ import com.canhub.cropper.CropImageView.CropShape
 import com.canhub.cropper.CropImageView.Guidelines
 import com.canhub.cropper.CropImageView.RequestSizeOptions
 
-private val COLOR_PURPLE = Color.rgb(153, 51, 153)
+private val COLOR_PURPLE = Color.rgb(110, 73, 255)
 
 /**
  * All the possible options that can be set to customize crop image.<br></br>
